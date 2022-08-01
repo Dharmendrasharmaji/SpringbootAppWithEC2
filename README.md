@@ -1,2 +1,2 @@
 # SpringbootAppWithEC2
-complete process is cover in the PPT mentioned.
+complete process is covered in the PPT mentioned.
